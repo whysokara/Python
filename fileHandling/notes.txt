@@ -4,3 +4,8 @@ Type of data:
 
 Similarly we have 2 types of file
 Text file and binary file
+
+
+file.open() =. python takes the file in specified path and loads that in buffer memory (RAM) until we close it
+
+use \n to add multiline
