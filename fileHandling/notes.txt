@@ -1,0 +1,6 @@
+Type of data:
+- Text
+- Binary
+
+Similarly we have 2 types of file
+Text file and binary file
