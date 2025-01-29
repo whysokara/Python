@@ -9,3 +9,5 @@ Text file and binary file
 file.open() =. python takes the file in specified path and loads that in buffer memory (RAM) until we close it
 
 use \n to add multiline
+
+with keyword auto closes the file
